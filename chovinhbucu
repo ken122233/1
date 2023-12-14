@@ -1,3 +1,4 @@
+--1
 if game:GetService("CoreGui"):FindFirstChild("Vinh Cặc Béo") then
 	game:GetService("CoreGui"):FindFirstChild("MUKURO GUI"):Destroy()
 end
